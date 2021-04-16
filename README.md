@@ -6,6 +6,8 @@
  - [Netlify](#netlify)
  - [Nginx](#nginx)
 
+---
+
 ### [Netlify](#netlify)
 
 1. Add a plaintext file in the [publish directory](https://docs.netlify.com/configure-builds/get-started/#basic-build-settings) of your website called `_headers`
@@ -20,6 +22,8 @@
 3. Publish the changes. (probably by pushing to a repository linked)
 
 (The example above uses the `/*` pattern to match _all_ pages. Configure this as you wish.)
+
+---
 
 ### [Nginx](#nginx)
 
