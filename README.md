@@ -36,7 +36,7 @@ Use one of the following browsers, in no particular order:
 ---
 
 ## As A Provider
-These are ways for you, as a provider, to opt-out of cohort tracking data calculations as a provider.
+These are ways for you, as a provider, to opt-out of cohort tracking data calculations for the users on your site.
 
 ### [Netlify](#netlify)
 
