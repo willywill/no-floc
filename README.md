@@ -2,9 +2,12 @@
 🚫 No FLoC - Say no to Googles' Federated Learning of Cohorts (FLoC). A list of ways to opt-out
 
 ## Table of Contents
-
- - [Netlify](#netlify)
- - [Nginx](#nginx)
+ - As a user
+   - Chrome Configuration
+   - Anti-FLoC Browsers
+ - As a provider
+   - [Netlify](#netlify)
+   - [Nginx](#nginx)
 
 ---
 
