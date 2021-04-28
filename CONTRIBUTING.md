@@ -1,4 +1,4 @@
-#Contributing to No-FLoC
+# Contributing to No-FLoC
 
 Thanks for taking the time to contribute! 🎉
 
