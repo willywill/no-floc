@@ -16,9 +16,22 @@ These are ways that you, as an indivudual, can opt-out of being included in coho
 
 ### [Chrome Configuration](#chrome-config)
 
+Uncheck _at least_ one of two boxes in the image below:
+
+![image](https://user-images.githubusercontent.com/8600561/116340256-de41cd80-a7ac-11eb-969c-f7ed7b868809.png)
+
+[Visit Google Ad Settings](https://adssettings.google.com/)
+
 ---
 
 ### [Anti-FLoC Browsers](#anti-floc-browsers)
+
+Use one of the following browsers, in no particular order:
+
+ - Firefox
+ - Brave
+ - Edge
+ - Vivaldi
 
 ---
 
