@@ -3,13 +3,27 @@
 
 ## Table of Contents
  - As a user
-   - Chrome Configuration
-   - Anti-FLoC Browsers
+   - [Chrome Configuration](#chrome-config)
+   - [Anti-FLoC Browsers](#anti-floc-browsers)
  - As a provider
    - [Netlify](#netlify)
    - [Nginx](#nginx)
 
 ---
+
+## As A User
+These are ways that you, as an indivudual, can opt-out of being included in cohort tracking data.
+
+### [Chrome Configuration](#chrome-config)
+
+---
+
+### [Anti-FLoC Browsers](#anti-floc-browsers)
+
+---
+
+## As A Provider
+These are ways for you, as a provider, to opt-out of cohort tracking data calculations as a provider.
 
 ### [Netlify](#netlify)
 
